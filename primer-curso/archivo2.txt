@@ -1,0 +1,5 @@
+vamosacodear
+notfound
+warning
+error
+success
