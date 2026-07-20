@@ -4,6 +4,9 @@
   "description": "Curso introdcutorio de node",
   "main": "1.os-info.js",
   "scripts": {
+    "dev:1": "nodemon ./segundo-curso/1.http.js",
+    "dev:2": "nodemon ./segundo-curso/2.routing.js",
+    "dev:3": "node --watch ./segundo-curso/3.express.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -18,6 +21,7 @@
     "picocolors": "^1.1.1"
   },
   "devDependencies": {
+    "nodemon": "^3.1.14",
     "standard": "^17.1.2"
   },
   "eslintConfig": {

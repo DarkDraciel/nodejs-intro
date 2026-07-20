@@ -1,10 +1,8 @@
 # Curso de Node.js
 
-
-
 ## Descripción general
 
-## Curso 1
+## Primer curso
 
 Contiene una colección de ejercicios prácticos de introducción a Node.js. El objetivo es explorar conceptos fundamentales del entorno, como el uso del sistema de archivos, rutas, procesos, creación de servidores HTTP y el manejo de módulos en CommonJS y ES Modules.
 
@@ -16,6 +14,10 @@ Los archivos del proyecto muestran diferentes funcionalidades de Node.js de form
 - Uso del objeto process
 - Creación de servidores web
 - Diferencias entre CommonJS y ES Modules
+
+## Segundo curso
+
+Contiene los ejercicios y ejemplos del segundo módulo del curso de Node.js. Aquí se practican conceptos básicos de Express, como la creación de un servidor web, el uso de middlewares, la definición de rutas `GET` y `POST`, la manipulación de datos en formato JSON y el manejo de respuestas `404`. El archivo `3.express.js` muestra un ejemplo práctico de cómo construir una API simple con Express.
 
 ## Requisitos
 
