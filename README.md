@@ -19,6 +19,10 @@ Los archivos del proyecto muestran diferentes funcionalidades de Node.js de form
 
 Contiene los ejercicios y ejemplos del segundo módulo del curso de Node.js. Aquí se practican conceptos básicos de Express, como la creación de un servidor web, el uso de middlewares, la definición de rutas `GET` y `POST`, la manipulación de datos en formato JSON y el manejo de respuestas `404`. El archivo `3.express.js` muestra un ejemplo práctico de cómo construir una API simple con Express.
 
+## Tercer curso
+
+La carpeta `tercer-curso` contiene los ejercicios y ejemplos del tercer módulo del curso. Aquí se profundiza en el desarrollo de aplicaciones web con Node.js, enfocándose en la creación de endpoints, el uso de middleware, el manejo de solicitudes, respuestas HTTP, CORS, y la construcción de APIs simples con Express.
+
 ## Requisitos
 
 - Node.js 16 o superior
@@ -33,10 +37,7 @@ Contiene los ejercicios y ejemplos del segundo módulo del curso de Node.js. Aqu
 
 2. Ejecutar alguno de los scripts de ejemplo:
    ```bash
-   node 1.os-info.js
-   node 3.fs-readFile.js
-   node 8.ls-advanced.js .
-   node 9.http.js
+   node nombre-archivo
    ```
 
 ## Notas
